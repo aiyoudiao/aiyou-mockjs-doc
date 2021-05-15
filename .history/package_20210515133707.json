@@ -1,0 +1,23 @@
+{
+  "name": "aiyou-mockjs-doc",
+  "version": "1.0.0",
+  "description": "官网的mockjs文档不好用，我就搞下来了，然后修复一下里面的bug，让它好用起来。",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiyoudiao/aiyou-mockjs-doc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aiyoudiao/aiyou-mockjs-doc/issues"
+  },
+  "homepage": "https://github.com/aiyoudiao/aiyou-mockjs-doc#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
